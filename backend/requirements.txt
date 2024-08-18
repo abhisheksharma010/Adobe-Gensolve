@@ -6,3 +6,4 @@ opencv-python
 gunicorn
 svgwrite
 svgpathtools
+firebase_admin
