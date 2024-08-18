@@ -1,6 +1,6 @@
-# Adobe-GenSolve Hackathon Project
+# **Adobe-Gensolve Hackathon Project**
 
-### DrawingApp with SVG Shape Detection and Image Processing
+**Live Demo**: [Adobe-Gensolve](https://adobe-gensolve-1.vercel.app/)
 
 ## Overview
 
@@ -28,24 +28,24 @@ This project is an advanced web application that allows users to draw on a canva
 
 ### Frontend (DrawingApp)
 
-1. Clone the repository:
+1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/DrawingApp.git
    cd DrawingApp
    ```
 
-2. Install dependencies:
+2. **Install Dependencies**:
    ```bash
    npm install
    ```
 
-3. Set up environment variables:
+3. **Set Up Environment Variables**:
    Create a `.env` file in the root directory with the following content:
    ```bash
    REACT_APP_API_URL=http://localhost:5000
    ```
 
-4. Start the development server:
+4. **Start the Development Server**:
    ```bash
    npm start
    ```
@@ -109,8 +109,7 @@ This project is an advanced web application that allows users to draw on a canva
 - Konva.js
 - CSV Parsing and Generation
 - File Handling
-- Firebase (storing input and output image)
-
+- Firebase (storing input and output images)
 
 ## Contributing
 
@@ -120,7 +119,8 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 [![Watch the video](https://img.youtube.com/vi/LS7qxnYSiOU/0.jpg)](https://youtu.be/LS7qxnYSiOU)
 
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
