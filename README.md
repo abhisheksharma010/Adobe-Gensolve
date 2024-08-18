@@ -1,4 +1,4 @@
-# Adobe GenSolve Hackathon Project
+# Adobe-GenSolve Hackathon Project
 
 ### DrawingApp with SVG Shape Detection and Image Processing
 
