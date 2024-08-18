@@ -68,7 +68,7 @@ const DrawingApp = () => {
 
     try {
       const response = await axios.post(
-        `${process.env.REACT_APP_API_URL}/upload-csv`,
+        `https://shadow-fd0n.onrender.com/upload-csv`,
         formData,
         {
           responseType: "blob",
@@ -101,7 +101,7 @@ const DrawingApp = () => {
 
     try {
       const response = await axios.post(
-        `${process.env.REACT_APP_API_URL}/upload-csv`,
+        `https://shadow-fd0n.onrender.com/upload-csv`,
         formData,
         {
           responseType: "blob",
